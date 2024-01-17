@@ -85,10 +85,7 @@ const Home = () => {
           <div className='w-full h-full m-0'>
             <img className='w-full p-2 h-full block rounded-lg ' src={heroImg01} alt="" />
           </div>
-          {/* <div className=' w-1/2 h-full border ml-0'>
-            <img src={heroImg02} alt="" className='w-full h-1/2  rounded-lg shadow-inner'/>
-            <img src={heroImg03} alt="" className='w-full h-1/2  rounded-lg shadow-inner'/>
-          </div> */}
+          
         </div>
       </div> 
     </div>
