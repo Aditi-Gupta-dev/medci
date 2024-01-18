@@ -21,6 +21,11 @@ const navlinks=[
     path:'/contact',
     display:'Contact'
   },
+  {
+    path:'/videos',
+    display:'Videos'
+  },
+  
 ]
 
 const Header = () => {
